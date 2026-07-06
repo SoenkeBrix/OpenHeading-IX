@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+.pio/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
